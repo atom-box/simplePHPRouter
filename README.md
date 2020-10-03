@@ -1,6 +1,9 @@
 # Simple PHP Router
 ## Credit
 This was forked from [@steampixel](https://github.com/steampixel/simplePHPRouter) on October 3, 2020
+## Reminder of how to run locally
+1. Start your XAMPP stack: /Applications/XAMPP/xamppfiles/manager-osx.app/
+2. Any browser will locally find the listening stack: http://127.0.0.1/stitzenrouten/
 ## Introduction by Christoph Stitz
 
 Hey! This is a simple and small single class PHP router that can handle the whole URL routing for your project.
