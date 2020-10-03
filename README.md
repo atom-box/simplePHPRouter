@@ -1,4 +1,7 @@
 # Simple PHP Router
+## Credit
+This was forked from @steampixel on October 3, 2020
+## Introduction by Christoph Stitz
 
 Hey! This is a simple and small single class PHP router that can handle the whole URL routing for your project.
 It utilizes RegExp and PHP's anonymous functions to create a lightweight and fast routing system.
