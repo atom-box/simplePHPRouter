@@ -1,6 +1,6 @@
 # Simple PHP Router
 ## Credit
-This was forked from @steampixel on October 3, 2020
+This was forked from [@steampixel](https://github.com/steampixel/simplePHPRouter) on October 3, 2020
 ## Introduction by Christoph Stitz
 
 Hey! This is a simple and small single class PHP router that can handle the whole URL routing for your project.
